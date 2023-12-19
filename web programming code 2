@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <met name ="viewport" contents="width=device-width,initial scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<form>
+<label for ="fname">Enter your name</label>
+<input type="submit">submit </button>
+</form>
+</body>
+<div><br>
+
+<head>
+<div>
+<label>upload your profile:</label>
+<input type="file" name="profile">
+<title>Document<\<title></title>
+</head>
+</div>
+
+<body>
+    <h2>new input types </h2>
+    <input type ="date"> <br>
+    <input type ="time"> <br>
+    <input type ="datetime-lcal"> <br>
+    <input type ="color"> <br>
+    <input type ="range"> <br>
+    <input type ="url"> <br>
+    <input type ="number"> <br><br>
+    <input type="number" min="18" max="55">
+</body>
+</html>
+    

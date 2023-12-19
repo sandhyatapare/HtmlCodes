@@ -1,0 +1,18 @@
+.pos{
+    Border:red 5px solid;
+    font-size: 4px;
+    left:30px;
+    position :relative;
+    top:auto30px;
+
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.container div{
+    
+}
